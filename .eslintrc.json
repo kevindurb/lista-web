@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "react"
+  ],
+  "extends": [
+    "recommended/node",
+    "recommended/node/style-guide"
+  ]
+}
